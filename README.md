@@ -2,7 +2,7 @@
 
 Hi, Im Ayush Agarwal , from IIT BHU ECE (Electronics ) 24 
 
-You probably opened this link cause you are looking specifically for infoedge ds based experience, or few months away from placements looking for how to prepare for data science roles accordingly (No I’m not introvert, but I’m usually busy so I might have sent ya this link, feel free to ping me after reading this for a quick chat, you can reach me through my linkedin ) , or a junior looking for ml guidance , so I made this repo
+You probably opened this link cause you are looking specifically for infoedge ds based experience, or few months away from placements looking for how to prepare for data science roles accordingly (No I’m not introvert, but I’m usually busy so I might have sent ya this link, feel free to ping me after reading this for a quick chat, you can reach me through my linkedin ) , or a junior looking for ml guidance , so I made this repo . Do star the repo or tell me if u find it useful , took me some decent time to write all this :) 
 
 ## About me –
 
