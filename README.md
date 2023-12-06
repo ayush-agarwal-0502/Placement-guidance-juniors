@@ -1,5 +1,4 @@
 # Placement-guidance-juniors
-My placement experience and guidance
 
 Hi, Im Ayush Agarwal , from IIT BHU ECE (Electronics ) 24 
 
@@ -100,5 +99,5 @@ So takebacks – prepare project well , and have a good business acumen for this
 
 ## Data Science 
 
-Andrews NG course , Kaggle course, Krish Nair youtube channel , and lots of practice by solving standard datasets :) Also cassendra and mosaic from Udyam (ECE dept fest IIT BHU) (Tho beware that they just surface level touch the topics and they are not exhaustive at all , do not think of udyam as the whole syllabus !!
+Andrews NG course , Kaggle course, Krish Nair youtube channel , statquest, and lots of practice by solving standard datasets :) Also cassendra and mosaic from Udyam (ECE dept fest IIT BHU) (Tho beware that they just surface level touch the topics and they are not exhaustive at all , do not think of udyam as the whole syllabus !!
 
