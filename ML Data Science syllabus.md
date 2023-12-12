@@ -32,7 +32,8 @@ Deep Learning –
 
 ANN artificial neural networks, perceptron structure , activation functions, how nn trains , backpropogation , gradient descent – stochastic batch and mini batch, adam ,
 momentum based gradient descent variations , loss functions, transfer learning , cnn structure different layers , n+2p-f/s + 1 formula , rnn , gru and lstm , basics of computer vision 
-, natural language processing and reinforcement learning , federated learning (cv , nlp , rl , fl)
+, natural language processing and reinforcement learning , federated learning (cv , nlp , rl , fl), Time series (anova, arima, sarimax) 
+what might be asked completely depends on the projects you put in resume 
 
 
 Statistics , Probablity , Linear Algebra – 
