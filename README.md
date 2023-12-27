@@ -108,7 +108,23 @@ Since too many people are asking , I will add more information here -
 
 Marketing is how your resume looks, how you present your github and linkedin, how you make your college life story a convincing career story that makes the recruiter hire you. Sales is how you talk to the interviewer, how you solve problems, how you behave when you cant solve a problem, and how passionate you appear about being in the field you are interviewing for and in the work of the company you are sitting for. "Its all a marketing and sales game" 
 
-personality split 
+When you sit in DS interview, be passionate about AI ML , when you sit in SDE interview , be passionate about serving lives of millions by making a button red or blue. More specifically when you sit for navi, be passionate about fintech space , when you sit for media net be passionate about marketing, when you sit for infoedge be passionate about using data science to build models that serve huge indian audience in career, real estate, matrimony. Passionate face and personality leave a positive impact on interviwer whether tech interview ho ya hr . Ive seen SDE people who think HR Interviews are useless, but its not like that. Imagine I have 3 "perfect" candidates to choose from, I would take the one who appreciates my company and has some burning desire to work in that specific domain in which company works. Thats also why company research is also important. Since you will walk in one interview room saying that "you love data science and its powers" and enter another interview room saying "management has been your passion ever since" XD , sometimes you will end up wondering what you really like too after hearing your own self talking , thats a personality crisis , dw it cures in the end :) 
+
+Q How to learn data science - 
+
+A - My journey - andrews ng , then kaggle , then udyam (cassandra + mosaic) , then statquest , then krish nair , plus robo club and cops ig camps and inter iit for research papers, and sometimes random googling , and once iitg camp also 
+
+What I recommend - 
+
+1st 2nd yearite - entering data science - andrews ng for learning basics , kaggle mini learn courses for learning the coding part , for iit bhu people - udyam ka cassandra and mosaic will give you community in your own class , will give you a project and also a achievement to put in resume . Also need to know ML coding , need to build basic projects yourself on ipynb. 
+
+3rd 4th - knows ml , needs to do for placements - statquest for intution of the algorithm , then go deep into maths using krish nair videos , then MAS ml quizzes if you are in MAS . Also do probablity, statistics (from RICE University courses) , linear algebra (god knows kaha se kare ye, maybe 3b1b youtube channel has good videos, or khan academy), sql (answered below) , excel (random youtube videos) 
+
+Q SQL - 
+
+A - first play SQL island game , 2 3 hours ka game hai , good for intro , then kaggle course sql ka (can skip it, but I did it so said), can see MAS notes for SQL theory, then interviewbit (uspe bahut easy questions hai even hard ones are easy), then leetcode 50 sql vaala , then MAS ka hackerrank vaala list (decent tough that uska medium bhi i would say) then datalemur (ye sabse hardest hai but its like archive of company questions) . SQL 2-3 din me nahi hota, there is lot to learn and lot of coding questions to practice in that too if you want sure short success .  
+
+
 
 Interview are of 4 types - 
 * directed - where your "tell me about yourself" and resume determine the next question. The next question is always made of some keyword in ur past answer or ur resume . You can easily direct this interview to your strong areas.
@@ -118,7 +134,11 @@ Interview are of 4 types -
 
 Q Projects ?
 
-A - Do not think that you need very high level state of the art machine learning models, making a chatgpt as a project is not good if you cant defend each and every single thing about the project. Take a moderate level project. You can see the projects I have put on my github , and my resumes are uploaded in this repo too. Inserting a github link with a good repo shows authenticity and your confidence in your own 
+A - Do not think that you need very high level state of the art machine learning models, making a chatgpt as a project is not good if you cant defend each and every single thing about the project. Take a moderate level project. You can see the projects I have put on my github , and my resumes are uploaded in this repo too. Inserting a github link with a good repo shows authenticity and your confidence in your project, you can also read my flipkart amba interview experience to see how I used my github in the middle of interview to explain which showed my genuineness . 2 Projects is a good number, avoid copying projects , specially when you havent done anything related to data science. Simply put - agar 2 projects bhi nahi banaye puree college life me, agar tech acha nahi lagta to tech college me seat kyu waste kar rahe ho, college life sirf g**** fukne ke liye thodi hai , its a place to grow your career .
+
+Q Resume - 
+
+A - Uploaded to this repo
 
 Q How to win GDs ?
 
@@ -138,14 +158,18 @@ A - MAS had 10 GDs, out of which I played 9 and won 7 , so I think I can answer 
 
 Q What did MAS offer ?
 
-A - They offered me 10 mock GDs which helped my impromptu skills, 5 mock interviews to polish any question answering style mistake if any. They gave me lots of practice question modules. And most importantly they knew exactly what is the "syllabus", what is asked and what isn't. And they were always availaible for discussions, as they were our seniors only. And they also called alums which they knew so that they can guide us about the tests . 
+A - They offered me 10 mock GDs which helped my impromptu skills, 5 mock interviews to polish any question answering style mistake if any. They gave me lots of practice question modules. And most importantly they knew exactly what is the "syllabus", what is asked and what isn't. And they were always availaible for discussions, as they were our seniors only. And they also called alums which they knew which were selected in the companies so that they can guide us about the tests . They also help you make resumes , and hr questions ke answers (a bit like teacher ke pass jaake answers check kara sakte ho and they will suggest modifications xd )
 
 Q Do they ask DSA ? 
 
-A - No , infoedge does not ask DSA . Navi, Sprinklr, Hilabs, Publicis Sapient ask DSA , Infoedge, FPL Technologies don't ask DSA, and Im not sure about Microsoft and Walmart since they were on hiring freeze in my year. **You are expected to know about 80-90% the DSA sde people know**. It takes about 6 months to master it so if u have time start accordingly, else start ASAP. Coding questions are asked in the first round, whether it is asked in interview or not should be asked to someone who gave those company interviews. You do not want to end up eliminated in first round just bcoz some SDE person did the coding questions and got ahead. So do prepare . Also a bit extra preparation won't hurt as it will allow sde to become ur backup. 
+A - No , infoedge does not ask DSA . Navi, Sprinklr, Hilabs, Publicis Sapient ask DSA , Infoedge, FPL Technologies don't ask DSA, and Im not sure about Microsoft and Walmart since they were on hiring freeze in my year. **You are expected to know about 80-90% the DSA sde people know** (Even have to do standard graphs and dp questions also). It takes about 6 months to master it so if u have time start accordingly, else start ASAP. Coding questions are asked in the first round, whether it is asked in interview or not should be asked to someone who gave those company interviews. You do not want to end up eliminated in first round just bcoz some SDE person did the coding questions and got ahead. So do prepare . Also a bit extra preparation won't hurt as it will allow sde to become ur backup. 
 
 Q Does cpi matter ?
 
 A - Yes. How much is needed ? That I cant say, but atleast above 7-8 . When companies have too many perfect scores, they sort the list of students according to cpi and then select the top students. So ur cpi needs to be better than ur batch . 
+
+Q Internship (IIT BHU ) in data science 
+
+A - I don't think zyada companies aati hai for data science so prepare sde backup, mera 2nd week me nvidia ho gaya tha so Im not aware of Data Science scene for internships in iit bhu . Microsoft DS aayegi (tbh thoda random hire karti hai atleast mere year me , no offence) and mastercard AI aayegi
 
 
