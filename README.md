@@ -29,6 +29,8 @@ Scope har jagah hai , har profile ka apna apna scope hai , cant emphasise it eno
 
 ## Infoedge experience –
 
+MAS Interview experience video : https://www.youtube.com/watch?v=nWyBQhGnHaM&t=20s
+
 Paper had 40 mcqs , all on mixed concepts , I don’t remember much of it honestly 
 
 Then there were 5 rounds of interview lasting almost 5 hours 
@@ -101,4 +103,49 @@ So takebacks – prepare project well , and have a good business acumen for this
 ## Data Science 
 
 Andrews NG course , Kaggle course, Krish Nair youtube channel , statquest, and lots of practice by solving standard datasets :) Also cassendra and mosaic from Udyam (ECE dept fest IIT BHU) (Tho beware that they just surface level touch the topics and they are not exhaustive at all , do not think of udyam as the whole syllabus !!
+
+Since too many people are asking , I will add more information here - 
+
+Marketing is how your resume looks, how you present your github and linkedin, how you make your college life story a convincing career story that makes the recruiter hire you. Sales is how you talk to the interviewer, how you solve problems, how you behave when you cant solve a problem, and how passionate you appear about being in the field you are interviewing for and in the work of the company you are sitting for. "Its all a marketing and sales game" 
+
+personality split 
+
+Interview are of 4 types - 
+* directed - where your "tell me about yourself" and resume determine the next question. The next question is always made of some keyword in ur past answer or ur resume . You can easily direct this interview to your strong areas.
+* Just woke up - where interviewer got to know 1 day ago that they have to take interview, they bing - "top 50 interview questions on ml/stats/sql" and they ask it. Simple defence - you google the same thing a week before. 
+* Rapid fire - where the interviewer has made up their mind that they want to judge you on certain topics, and come prepared with a set of questions to ask .
+* torture - Where they will grill you with very hard questions purposely (even they know you cant solve all of it) and see whether you break down and fuck up or you answer the rest of moderate questions or continue with calm attitude . In extreme case they might tell you that you are wrong to test your attitude. Usually a manipulation trick used by senior interviewers.
+
+Q Projects ?
+
+A - Do not think that you need very high level state of the art machine learning models, making a chatgpt as a project is not good if you cant defend each and every single thing about the project. Take a moderate level project. You can see the projects I have put on my github , and my resumes are uploaded in this repo too. Inserting a github link with a good repo shows authenticity and your confidence in your own 
+
+Q How to win GDs ?
+
+A - MAS had 10 GDs, out of which I played 9 and won 7 , so I think I can answer this. 
+* The first 3 people to start are seen by interviewer the most and given brownie points.
+* The concluder , the person who speaks last is given brownie points . The starter, the person who speaks first, should say his name, then introduce the topic, and then give a general brief about the topic and then start speaking their views on the topic.
+* If you speak, try to speak for more than 20 seconds.
+* If you don't even understand the topic, you can act as "moderator" , its a person who says "we are diverting from the topic lets discuss this", "now that we have discussed benefits lets discuss drawbacks" etc .
+* If you have spoken atleast twice, pointing to the person who hasnt spoken gives brownie points for kindness : "Guys I think he/she has not gotten a chance to speak, lets give them a chance , what are your views on it " etc .
+* Cutting someone speaking is considered rude, so cut people , but in the least aggressive way (Like my mentor said once "If you have to be a polite person and let someone speak, might as well let them take the job too. Why sit in the placements then. ")
+* My personal favourite tip - destructor - speak within the first 3 people , and put out all the points that are possible for a certain topic (this speed of impromptu thinking comes with practice) , this leaves ur opponents defenseless as anything they speak is considered as a repeat point and you win the GD straight.
+* Also , when everyone starts to repeat the same point (eg , saying "yeah I agree" ), its called as a boombox or echobox, and breaking such a condition by changing the direction of discussion can grab a lot of points.
+* Avoid speaking in hindi.
+* Avoid using negative points like - "I think you are wrong" etc .
+* Read finshots and groww articles for GK if you are keen on business roles 
+* This should be more than enough tips to play destructively and win fast. Smooth execution comes with great practice tho.
+
+Q What did MAS offer ?
+
+A - They offered me 10 mock GDs which helped my impromptu skills, 5 mock interviews to polish any question answering style mistake if any. They gave me lots of practice question modules. And most importantly they knew exactly what is the "syllabus", what is asked and what isn't. And they were always availaible for discussions, as they were our seniors only. And they also called alums which they knew so that they can guide us about the tests . 
+
+Q Do they ask DSA ? 
+
+A - No , infoedge does not ask DSA . Navi, Sprinklr, Hilabs, Publicis Sapient ask DSA , Infoedge, FPL Technologies don't ask DSA, and Im not sure about Microsoft and Walmart since they were on hiring freeze in my year. **You are expected to know about 80-90% the DSA sde people know**. It takes about 6 months to master it so if u have time start accordingly, else start ASAP. Coding questions are asked in the first round, whether it is asked in interview or not should be asked to someone who gave those company interviews. You do not want to end up eliminated in first round just bcoz some SDE person did the coding questions and got ahead. So do prepare . Also a bit extra preparation won't hurt as it will allow sde to become ur backup. 
+
+Q Does cpi matter ?
+
+A - Yes. How much is needed ? That I cant say, but atleast above 7-8 . When companies have too many perfect scores, they sort the list of students according to cpi and then select the top students. So ur cpi needs to be better than ur batch . 
+
 
