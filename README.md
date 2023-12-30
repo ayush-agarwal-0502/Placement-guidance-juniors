@@ -106,6 +106,8 @@ Andrews NG course , Kaggle course, Krish Nair youtube channel , statquest, and l
 
 Since too many people are asking , I will add more information here - 
 
+First some general interview tips - 
+
 Marketing is how your resume looks, how you present your github and linkedin, how you make your college life story a convincing career story that makes the recruiter hire you. Sales is how you talk to the interviewer, how you solve problems, how you behave when you cant solve a problem, and how passionate you appear about being in the field you are interviewing for and in the work of the company you are sitting for. "Its all a marketing and sales game" 
 
 When you sit in DS interview, be passionate about AI ML , when you sit in SDE interview , be passionate about serving lives of millions by making a button red or blue. More specifically when you sit for navi, be passionate about fintech space , when you sit for media net be passionate about marketing, when you sit for infoedge be passionate about using data science to build models that serve huge indian audience in career, real estate, matrimony. Passionate face and personality leave a positive impact on interviwer whether tech interview ho ya hr . Ive seen SDE people who think HR Interviews are useless, but its not like that. Imagine I have 3 "perfect" candidates to choose from, I would take the one who appreciates my company and has some burning desire to work in that specific domain in which company works. Thats also why company research is also important. Since you will walk in one interview room saying that "you love data science and its powers" and enter another interview room saying "management has been your passion ever since" XD , sometimes you will end up wondering what you really like too after hearing your own self talking , thats a personality crisis , dw it cures in the end :) 
@@ -124,7 +126,14 @@ Q SQL -
 
 A - first play SQL island game , 2 3 hours ka game hai , good for intro , then kaggle course sql ka (can skip it, but I did it so said), can see MAS notes for SQL theory, then interviewbit (uspe bahut easy questions hai even hard ones are easy), then leetcode 50 sql vaala , then MAS ka hackerrank vaala list (decent tough that uska medium bhi i would say) then datalemur (ye sabse hardest hai but its like archive of company questions) . SQL 2-3 din me nahi hota, there is lot to learn and lot of coding questions to practice in that too if you want sure short success .  
 
+Q How to select the 50 companies ?
 
+A - Dont be the person who is asking for limit extension at the end of placement season !! Choose the 50 using this - 
+* Have some preference order for the domains mentioned above. This depends on your intrests and skills.
+* see company size on linkedin. big companies may not allow you to work on large projects immidiately but would give you stable jobs and stable pay, startups have higher pays usually but instable , sometimes (in my senior batch this happened) companies close down too leaving you jobless even before joining. Its your decision which side you like more - stable culture or startup culture .
+* talk to seniors and tpr , and get to know the past number of people hired and the difficulty of papers . For example - I personally never did cp so I avoided companies like zomato , phonepe, meesho, medianet sde where these companies are known to ask hardest coding questions .
+* Pay (I mean obviously)
+* One thing - Dont fill all the good companies ? Why ? you should divide the companies as per slots in which their interview happens and then pick few companies out of each slot. Personally - In slot 1-1 I had infoedge qualcomm sprinklr , and I could only attempt infoedge interview. So all the other ones I had in 1-1 were waste. You do not want the situation where you have all the company shortlists of day 1 (say you have 10-15 shortlists) and do not have anything on other days , cause its the same thing as having 3-4 companies only . Divide and conquer
 
 Interview are of 4 types - 
 * directed - where your "tell me about yourself" and resume determine the next question. The next question is always made of some keyword in ur past answer or ur resume . You can easily direct this interview to your strong areas.
