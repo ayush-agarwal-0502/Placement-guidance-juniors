@@ -52,7 +52,7 @@ Deep Learning – this was the most drilled section . They asked me about vanish
 For CNN side , they asked me to explain it (I explained the filters , stride , padding , 3 parts convolution activation pooling and n+2p-f/s+1 vaala formula they were content with me after that) they asked me what max pooling is , they asked whether CNN is rotationly invariant or variant (whether it can work on rotated images or not) , whether it is translationally invariant or not . 
 They asked me what deep learning model to use for time series (then I explained them about rnn gru lstm and bptt (backpropogation through time) low memory problems of rnn , little bit of lstm gru structure and they were content with my answer) 
 
-In the 4th round when I said I knew bit of RL (reinforcement learning also) , they asked me bit on that also so I explained environment agents and reward functions and policies for learning and Markov models and DQN algorithm 
+In the 4th round when I said I knew bit of RL (reinforcement learning also) , they asked me bit on that also so I explained environment agents and reward functions and policies for learning and Markov models and DQN algorithm . He also asked me about itertools and oops in python , I explained him about oops principles in c++ and told him Ill adapt to python when I work.
 
 Classical ML – They asked me how I can reduce overfitting in trees (pruning) , 
 as my project has PCA and t-SNE , they asked me how PCA works (I explained SVD Singular Value Decomposition Scree plots and % explained variance and linearity and how it’s a deterministic algorithm , they were content with my answer) , then they asked about t sne (I explained it was made by geoffery hinton in 2008, successor to sne algorithm explained about how it’s a non deterministic dimensionality reduction algorithm , how it can capture non linear relations like swiss roll datasets also , how it tries to preserve neighbours in projected lower dimension and thus good for visualizing clusters, little bit on perplexity also ), then they asked me about LDA (Linear Discriminant Analysis alg or something, I explained them how it does dimensionality reduction while maximise fisher lda formula and increasing separability of clusters , how its deterministic and linear algorithm etc) 
@@ -102,13 +102,14 @@ So takebacks – prepare project well , and have a good business acumen for this
 
 ## Data Science 
 
-Andrews NG course , Kaggle course, Krish Nair youtube channel , statquest, and lots of practice by solving standard datasets :) Also cassendra and mosaic from Udyam (ECE dept fest IIT BHU) (Tho beware that they just surface level touch the topics and they are not exhaustive at all , do not think of udyam as the whole syllabus !!
+One line answer - Andrews NG course , Kaggle course, Krish Nair youtube channel , statquest, and lots of practice by solving standard datasets :) Also cassendra and mosaic from Udyam (ECE dept fest IIT BHU) (Tho beware that they just surface level touch the topics and they are not exhaustive at all , do not think of udyam as the whole syllabus !!
 
-Since too many people are asking , I will add more information here - 
+
+At this point I might have given link to this repo to about 50 ppl , so might as well clear up some clutter , some of the things Ive explained below are kinda philosophyish about how to crack interviews, its what worked for me
 
 First some general interview tips - 
 
-Marketing is how your resume looks, how you present your github and linkedin, how you make your college life story a convincing career story that makes the recruiter hire you. Sales is how you talk to the interviewer, how you solve problems, how you behave when you cant solve a problem, and how passionate you appear about being in the field you are interviewing for and in the work of the company you are sitting for. "Its all a marketing and sales game" 
+"You don't sell just qualities of product, you sell emotions and stories too"  - Marketing is how your resume looks, how you present your github and linkedin, how you make your college life story a convincing career story that makes the recruiter hire you. Sales is how you talk to the interviewer, how you solve problems, how you behave when you cant solve a problem, and how passionate you appear about being in the field you are interviewing for and in the work of the company you are sitting for. "Its all a marketing and sales game" 
 
 When you sit in DS interview, be passionate about AI ML , when you sit in SDE interview , be passionate about serving lives of millions by making a button red or blue. More specifically when you sit for navi, be passionate about fintech space , when you sit for media net be passionate about marketing, when you sit for infoedge be passionate about using data science to build models that serve huge indian audience in career, real estate, matrimony. Passionate face and personality leave a positive impact on interviwer whether tech interview ho ya hr . Ive seen SDE people who think HR Interviews are useless, but its not like that. Imagine I have 3 "perfect" candidates to choose from, I would take the one who appreciates my company and has some burning desire to work in that specific domain in which company works. Thats also why company research is also important. Since you will walk in one interview room saying that "you love data science and its powers" and enter another interview room saying "management has been your passion ever since" XD , sometimes you will end up wondering what you really like too after hearing your own self talking , thats a personality crisis , dw it cures in the end :) 
 
@@ -147,7 +148,7 @@ A - Do not think that you need very high level state of the art machine learning
 
 Q Resume - 
 
-A - Uploaded to this repo
+A - Uploaded to this repo - 2 projects , 1 por , some extracurricular to make you look like a human. Projects and internship ki story acche se pata honi chahiye. 
 
 Q How to win GDs ?
 
@@ -165,9 +166,9 @@ A - MAS had 10 GDs, out of which I played 9 and won 7 , so I think I can answer 
 * Read finshots and groww articles for GK if you are keen on business roles 
 * This should be more than enough tips to play destructively and win fast. Smooth execution comes with great practice tho.
 
-Q What did MAS offer ?
+Q Should I join MAS ?
 
-A - They offered me 10 mock GDs which helped my impromptu skills, 5 mock interviews to polish any question answering style mistake if any. They gave me lots of practice question modules. And most importantly they knew exactly what is the "syllabus", what is asked and what isn't. And they were always availaible for discussions, as they were our seniors only. And they also called alums which they knew which were selected in the companies so that they can guide us about the tests . They also help you make resumes , and hr questions ke answers (a bit like teacher ke pass jaake answers check kara sakte ho and they will suggest modifications xd )
+A - See , jiska ho jaata hai usse sab sahi hi lagta hai and ha hi kahega , and jiska nahi hota accaha vo na hi kahega . So you should see all their offerings and decide for yourselves. Here are my reviews on their offerings - They offered me 10 mock GDs which helped my impromptu skills, 5 mock interviews to polish any question answering style mistake if any. They gave me lots of practice question modules. And most importantly they knew exactly what is the "syllabus", what is asked and what isn't. And they were always availaible for discussions, as they were our seniors only. And they also called alums which they knew which were selected in the companies so that they can guide us about the tests . They also help you make resumes , and hr questions ke answers (a bit like teacher ke pass jaake answers check kara sakte ho and they will suggest modifications xd )
 
 Q Do they ask DSA ? 
 
@@ -179,6 +180,6 @@ A - Yes. How much is needed ? That I cant say, but atleast above 7-8 . When comp
 
 Q Internship (IIT BHU ) in data science 
 
-A - I don't think zyada companies aati hai for data science so prepare sde backup, mera 2nd week me nvidia ho gaya tha so Im not aware of Data Science scene for internships in iit bhu . Microsoft DS aayegi (tbh thoda random hire karti hai atleast mere year me , no offence) and mastercard AI aayegi
+A - I don't think zyada companies aati hai for data science so prepare sde backup, mera 2nd week day 1 me nvidia ho gaya tha so Im not aware of Data Science scene for internships in iit bhu . Microsoft DS aayegi (tbh thoda random hire karti hai atleast mere year me , no offence) and mastercard AI aayegi
 
 
