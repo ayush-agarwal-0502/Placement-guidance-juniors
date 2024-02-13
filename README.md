@@ -2,7 +2,7 @@
 
 Hi, Im Ayush Agarwal , from IIT BHU ECE (Electronics ) 24 
 
-You probably opened this link cause you are looking specifically for infoedge ds based experience, or few months away from placements looking for how to prepare for data science roles accordingly (No I’m not introvert, but I’m usually busy so I might have sent ya this link, feel free to ping me after reading this for a quick chat, you can reach me through my linkedin ) , or a junior looking for ml guidance , so I made this repo . Do star the repo or tell me if u find it useful , took me some decent time to write all this :) 
+You probably opened this link cause you are looking specifically for infoedge ds based experience, or few months away from placements looking for how to prepare for data science roles accordingly (No I’m not introvert, but I’m usually busy so I might have sent ya this link, feel free to ping me after reading this for a quick chat, you can reach me through my linkedin ) , or a junior looking for ml guidance , so I made this repo . Do star the repo or tell me if u find it useful (honestly just tell) , took me some decent time to write all this :) 
 
 ## About me –
 
@@ -12,7 +12,7 @@ Shortlists – Infoedge DS , Sprinklr DS, FPL Technologies DS, JM Financials DS 
 
 Off campus – Google Hardware (reached till round 3(final round)) , Tata Elxsi (Mechatronics/Automation engineer)(reached till final round) 
 
-So I am multifielder , meaning I had experience across various domains and profiles 
+So I am multifielder , meaning I had experience across various domains and profiles ( I won't deny that I am flexing here XD)
 
 ## Profiles on campus and my intuition on them – 
 
@@ -31,7 +31,7 @@ Scope har jagah hai , har profile ka apna apna scope hai , cant emphasise it eno
 
 MAS Interview experience video : https://www.youtube.com/watch?v=nWyBQhGnHaM&t=20s
 
-Paper had 40 mcqs , all on mixed concepts , I don’t remember much of it honestly 
+Paper had 40 mcqs , all on mixed concepts , I don’t remember much of it honestly . Some questions I remember are - what false negative means , calculating variance of a continuous function over an interval, something about alpha and beta for type 1 and 2 errors, something on kurtosis, homescedasticity vs heteroscedasticity, dickey fuller test, bag of words, which is text processing - stemming lemmatization tokenization, something on what eigenvector and eigenvalues mean in PCA, types of ensemble - bagging boosting stacking, something on xavier and he initialization, difference between append and extend in python, pandas .nunique(), pandas to_csv(), DROP in SQL, Pass in Python usage, SELECT DISTINCT in SQL, ,describe(), .reshape(), slicing in python, resnets - for curing vanishing gradient problems, which are classification model errors - cross entropy log loss hinge loss, deep belif network dbn and rbm restricted boltzmann machine, random forest is bagging or boosting - bagging obvio, sum of 2 independent normals, universal approximation theorem, OvO OvA one vs one one vs all methods of multiclass, bias variance graphs with error-model complexity and error-iterations, number of hidden layers in deep nn - 1 , pandas - merge join concat, which is faster - stochastic gradient descent or batch , append in python, lstm used in - speech recognition, entropy formula, mutable data types in python 
 
 Then there were 5 rounds of interview lasting almost 5 hours 
 
@@ -68,9 +68,9 @@ In the __ML coding round__ , the dataset was on MBA students , we were given few
 
 In the 4th __case study round__ that was hardest as I was grilled until the point I said I didn’t know . First he wanted to know my background about where all I had learnt ml from and where all had I used it so I gave him a deep life on how I used rl in robotics club , computer vision experience from inter iit , got business intrests , picked random datasets to work on online , branch fest udyam bla bla bla . This was the hardest round imo (boss level vibes) and the interviewer looked quite senior also .   Then I was asked 2 case studies – If I was the sales head of Naukri dot com how will I improve the revenue . I thought a lot , then explained that revenue would come from postings of jobs by companies , so more companies means more website users and more users meant more companies so the customer segments grow symbiotically . So we can target new customer markets , we can have tie ups with colleges so that they don’t need to build their tpc portal , and students can register on our site . this would also increase our user acquisition . Imo I think he was testing bit of company knowledge too since I had to know how Naukri earns money . Then I further went to customer base expansion point , and went into how I know that France people prefer French over english , so we need to make our site multilingual and adapt it to different countries to get more customers . and the last point I made is that doing analysis of current customer bases and figuring out what our competitiors do better than us . Then 2nd case study – imagine you have all the browsing data of a customer at Naukri dot com , you have to find whether they will buy (finalize the deal) on a certain property or not ? – make features (he kept saying more more until I get stuck) I made a feature using browsing data that if someone sees most properties in 30k range and few in 20k few in 50k then they wont take 50k or 20k one . I made feature using locations and emphasized its importance by giving examples of Noida and bangalore . I made features on history of customer contacting broker , property visits arranged by them etc and the interviewer was convinced . 
 
-The 2nd 3rd and 4th rounds were literally consecutive , happened back to back . they literally told me “__tum 5 minute issi meet me ruko hum next interviewer bhej rahe hai__” , so my tip here would be to stay hydrated and practice speaking continuously for 3 hours , since you might not get breaks . Then I went to give qualcomm round 1 (that interviewer was lowkey annoyed why I came so late and so wasn’t interested in me) . Then I came back to infoedge and gave round 5 .
+The 2nd 3rd and 4th rounds were literally consecutive , happened back to back . they literally told me “__tum 5 minute issi meet me ruko hum next interviewer bhej rahe hai__” (kaafi Synergy thi mere and company ke beech, when I came out I realized bahut logo ka atka hua tha 2nd 3rd pe hi so I was really blessed here) , so my tip here would be to stay hydrated and practice speaking continuously for 3 hours , since you might not get breaks . Then I went to give qualcomm round 1 (that interviewer was lowkey annoyed why I came so late and so wasn’t interested in me) . Then I came back to infoedge and gave round 5 .
 
-In round 5 , it was HR round , they asked me to introduce myself . I focused on showing leadership and management skills now since this is HR round intro . then we talked a bit about guitar (I guess he also plays guitar lol) He asked me – what does infoedge do (and I explained about jeevansathi , Naukri , 99 acres , shiksha etc multicoglomerate , internet company etc) and the hr was happy . then they asked me – why infoedge (then I explained about how infoedge does end to end work , makes sure ML models are serving business purpose and helping real people , and they are good at ml , explained some stuff from what I saw in ppt (yes I watch ppts , yes it helps , yes I recommend my juniors watching atleast for their dream companies)  and explained about how I was impressed with the research group they menthioned in the ppt . HR was impressed with the answer . then they explained me basic stuff like 2 offices in noida , 4 day wfo 1 day wfh etc . round was done in 15-20 minutes and was pretty chill . 
+In round 5 , it was HR round , they asked me to introduce myself . I focused on showing leadership and management skills now since this is HR round intro . then we talked a bit about guitar (I guess he also plays guitar lol) He asked me – what does infoedge do (and I explained about jeevansathi , Naukri , 99 acres , shiksha etc multicoglomerate , internet company etc) and the hr was happy . then they asked me – why infoedge (then I explained about how infoedge does end to end work , makes sure ML models are serving business purpose and helping real people , and they are good at ml , explained some stuff from what I saw in ppt (yes I watch ppts , yes it helps , yes I recommend my juniors watching atleast for their dream companies)  and explained about how I was impressed with the research group they menthioned in the ppt . HR was impressed with the answer . then they explained me basic stuff like 2 offices in noida , 4 day wfo 1 day wfh etc (To which I said I would love to come to office and connect offline with seniors and learn as I am covid batch and ik ki online is not good) (Insert a brick of butter XD) round was done in 15-20 minutes and was pretty chill . 
 Finally I was taken to the TPR room and he said – koi aur interview hai ? chill kardo usse , congratulations and that’s how it finished : ) 
 
 ## Flipkart AM BD (Assistant manager business development ) 
@@ -96,7 +96,9 @@ Then he said – you look like you have a ML or analyst background , cause all t
 
 Imo interview went very well , pretty much like a quick 40 minute chat , cause I had good business acumen . I suggest my juniors who are preparing for business roles to read finshots and grow articles daily . 
 
-After that as soon as I walked out I was informed that my infoedge ds offer letter has been finalized and I cant sit for slot 2 , so I couldn’t move ahead with flipkart , to which I happily agreed and went back to hostel . 
+After that as soon as I walked out I was informed that my infoedge ds offer letter has been finalized and I cant sit for slot 2 , so I couldn’t move ahead with flipkart , to which I happily agreed and went back to hostel . (Lets just say for the record I got escorted out XD)
+
+You will often find me saying ki infoedge nahi hua hota to definitely Flipkart hota 
 
 So takebacks – prepare project well , and have a good business acumen for this role , tech wont be asked . 
 
@@ -107,11 +109,11 @@ One line answer - Andrews NG course , Kaggle course, Krish Nair youtube channel 
 
 At this point I might have given link to this repo to about 50 ppl , so might as well clear up some clutter , some of the things Ive explained below are kinda philosophyish about how to crack interviews, its what worked for me
 
-First some general interview tips - 
+First some general interview tips - (kya padhna hai sab bata denge thoda philosophy time :) 
 
 "You don't sell just qualities of product, you sell emotions and stories too"  - Marketing is how your resume looks, how you present your github and linkedin, how you make your college life story a convincing career story that makes the recruiter hire you. Sales is how you talk to the interviewer, how you solve problems, how you behave when you cant solve a problem, and how passionate you appear about being in the field you are interviewing for and in the work of the company you are sitting for. "Its all a marketing and sales game" 
 
-When you sit in DS interview, be passionate about AI ML , when you sit in SDE interview , be passionate about serving lives of millions by making a button red or blue. More specifically when you sit for navi, be passionate about fintech space , when you sit for media net be passionate about marketing, when you sit for infoedge be passionate about using data science to build models that serve huge indian audience in career, real estate, matrimony. Passionate face and personality leave a positive impact on interviwer whether tech interview ho ya hr . Ive seen SDE people who think HR Interviews are useless, but its not like that. Imagine I have 3 "perfect" candidates to choose from, I would take the one who appreciates my company and has some burning desire to work in that specific domain in which company works. Thats also why company research is also important. Since you will walk in one interview room saying that "you love data science and its powers" and enter another interview room saying "management has been your passion ever since" XD , sometimes you will end up wondering what you really like too after hearing your own self talking , thats a personality crisis , dw it cures in the end :) 
+When you sit in DS interview, be passionate about AI ML , when you sit in SDE interview , be passionate about serving lives of millions by making a button red or blue (Yes I love to diss SDE pplz). More specifically when you sit for navi, be passionate about fintech space , when you sit for media net be passionate about marketing, when you sit for infoedge be passionate about using data science to build models that serve huge indian audience in career, real estate, matrimony. Passionate face and personality leave a positive impact on interviwer whether tech interview ho ya hr . Ive seen SDE people who think HR Interviews are useless, but its not like that. Imagine I have 3 "perfect" candidates to choose from, I would take the one who appreciates my company and has some burning desire to work in that specific domain in which company works. Thats also why company research is also important. Since you will walk in one interview room saying that "you love data science and its powers" and enter another interview room saying "management has been your passion ever since" XD , sometimes you will end up wondering what you really like too after hearing your own self talking , thats a personality crisis , dw it cures in the end :) 
 
 Q How to learn data science - 
 
@@ -119,7 +121,7 @@ A - My journey - andrews ng , then kaggle , then udyam (cassandra + mosaic) , th
 
 What I recommend - 
 
-1st 2nd yearite - entering data science - andrews ng for learning basics , kaggle mini learn courses for learning the coding part , for iit bhu people - udyam ka cassandra and mosaic will give you community in your own class , will give you a project and also a achievement to put in resume . Also need to know ML coding , need to build basic projects yourself on ipynb. 
+1st 2nd yearite - entering data science - andrews ng for learning basics , kaggle mini learn courses for learning the coding part , for iit bhu people - udyam ka cassandra and mosaic will give you community in your own class , will give you a project and also a achievement to put in resume . Also need to know ML coding , need to build basic projects yourself on ipynb. start exploring Computer Vision cv , Natural Language Processing nlp , Reinforcement Learning rl, federated learning fl, generative ai genai etc maza aayega tumhe bahut
 
 3rd 4th - knows ml , needs to do for placements - statquest for intution of the algorithm , then go deep into maths using krish nair videos , then MAS ml quizzes if you are in MAS . Also do probablity, statistics (from RICE University courses) , linear algebra (god knows kaha se kare ye, maybe 3b1b youtube channel has good videos, or khan academy), sql (answered below) , excel (random youtube videos) 
 
@@ -150,6 +152,16 @@ Q Resume -
 
 A - Uploaded to this repo - 2 projects , 1 por , some extracurricular to make you look like a human. Projects and internship ki story acche se pata honi chahiye. 
 
+Update - Since more juniors asked about resume here are my tips - 
+* White space kam rakho right side me to better rahega , each space is a chance to pitch urself
+* I personally prefer - 2 projects 1 internship 1 POR rest achievements
+* JEE rank is not an achievement, go win some branch fests
+* As I said above story ready honi chahiye. Jo models project me use hue hai uspe bhi question pucha ja sakta hai
+* Project link daalna is very cool
+* Our TPC portal allows us to create bullets, bold things, add links etc use this feature
+* I personally dont prefer to show cpi cause I have other achievements to show and cpi se konsi hi company judge karegi , infact counter question aayega ki u are good in core why data science ?
+* internship kisi aur domain ki bhi ho to bhi chalega as long as company name is good and u can represent it as a part of your story. 
+
 Q How to win GDs ?
 
 A - MAS had 10 GDs, out of which I played 9 and won 7 , so I think I can answer this. 
@@ -168,7 +180,7 @@ A - MAS had 10 GDs, out of which I played 9 and won 7 , so I think I can answer 
 
 Q Should I join MAS ?
 
-A - See , jiska ho jaata hai usse sab sahi hi lagta hai and ha hi kahega , and jiska nahi hota accaha vo na hi kahega . So you should see all their offerings and decide for yourselves. Here are my reviews on their offerings - They offered me 10 mock GDs which helped my impromptu skills, 5 mock interviews to polish any question answering style mistake if any. They gave me lots of practice question modules. And most importantly they knew exactly what is the "syllabus", what is asked and what isn't. And they were always availaible for discussions, as they were our seniors only. And they also called alums which they knew which were selected in the companies so that they can guide us about the tests . They also help you make resumes , and hr questions ke answers (a bit like teacher ke pass jaake answers check kara sakte ho and they will suggest modifications xd )
+A - See , jiska ho jaata hai usse sab sahi hi lagta hai and ha hi kahega , and jiska nahi hota accaha vo na hi kahega . So you should see all their offerings and decide for yourselves. Here are my reviews on their offerings - They offered me 10 mock GDs which helped my impromptu skills, 5 mock interviews to polish any question answering style mistake if any. They gave me lots of practice question modules. And most importantly they knew exactly what is the "syllabus", what is asked and what isn't. And they were always availaible for discussions, as they were our seniors only. And they also called alums which they knew which were selected in the companies so that they can guide us about the tests . They also help you make resumes , and hr questions ke answers (a bit like teacher ke pass jaake answers check kara sakte ho and they will suggest modifications xd ) 
 
 Q Do they ask DSA ? 
 
