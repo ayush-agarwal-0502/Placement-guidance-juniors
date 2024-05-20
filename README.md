@@ -2,7 +2,10 @@
 
 Hi, Im Ayush Agarwal , from IIT BHU ECE (Electronics ) 24 
 
-You probably opened this link cause you are looking specifically for infoedge ds based experience, or few months away from placements looking for how to prepare for data science roles accordingly (No I’m not introvert, but I’m usually busy so I might have sent ya this link, feel free to ping me after reading this for a quick chat, you can reach me through my linkedin ) , or a junior looking for ml guidance , so I made this repo . Do star the repo or tell me if u find it useful (honestly just tell) , took me some decent time to write all this :) 
+This repo is meant to guide juniors for data science placements, specially Infoedge DS .  
+
+Do star the repo and tell me if u find it useful (honestly just tell) , took me some decent time to write all this :) I would be happy to talk to you
+
 
 ## About me –
 
@@ -13,6 +16,8 @@ Shortlists – Infoedge DS , Sprinklr DS, FPL Technologies DS, JM Financials DS 
 Off campus – Google Hardware (reached till round 3(final round)) , Tata Elxsi (Mechatronics/Automation engineer)(reached till final round) 
 
 So I am multifielder , meaning I had experience across various domains and profiles ( I won't deny that I am flexing here XD)
+
+My linkedin - https://www.linkedin.com/in/ayush-agarwal-261041215/
 
 ## Profiles on campus and my intuition on them – 
 
@@ -200,4 +205,26 @@ Q Analyst as backup role
 
 You would need to practice SQL (sources mentioned above), Excel (thoda bahut , just pivot table and basic formulas like vlookup, sum etc), power bi / tableau (koi bhi ek event me dashboard bana lo ho jayega practice), case studies and guesstimates (iit bhu biz club posts casebooks, and every IIM posts casebooks that can help you, basic frameworks yaad karlo for standard problem types like profitability, market entry, rca etc) 
 
+Q Kitna time lagega ?
 
+Recently I've started receiving dms where ppl are new to DS and 3-4 month before placement tests they suddenly realize DS kar lena chahiye (not targetted , 3,4 aise DM aa chuke hai) Please understand ki DS ki hiring me most companies interview for decent 4-5 hrs so unlike SDE u can't fake it or just follow 1 single thing (like sde vaale logo ka dsa karke ho jaata hai mostly) and these companies hire so less in number that they actually care about what kind of people they hire (Unlike some companies who hire half via diversity and casually fire 12k ppl, iykyk XD), so just let DS be for the people who have actually studied ML since long . Don't waste number of companies u can fill , last 3 month me u are not suddenly gonna emerge as campus ka data science expert . Take decent 6 months if you are weak in ML , or 3 months if you are already good at ML and just need to get interview ready , or 1 year if you have never even made a linear regression or CNN model .
+
+## In short a roadmap 
+
+Python - koi bhi club se karlo 
+
+SQL - mentioned above 
+
+Probs , Stats , Linear Algebra - college ka MA201 course , ya stanford harvard (not sure konsa) ka STAT110, plus RICE university course 
+
+ML - Andrews Ng, Krish Nair, Statquest , and some of my seniors did CSE229 vaala andrews ng ka original 
+
+Data - Cassandra Udyam (ECE dept fest) ke notes were good but not sufficient -  https://github.com/monako2001/Cassandra_Workspace (This repo was made by my senior Aman Mishra who went into Navi)
+
+Coding - see random youtube videos for np, pd, plt, sns (hope u know what it means), then kaggle learn modules 
+
+DSA - go to LC , throw a stone, it will hit a sde , ask them . imo , gfg ke articles and leetcode and maybe interviewbit
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+ALL THE BEST AND STAY IN TOUCH :)
