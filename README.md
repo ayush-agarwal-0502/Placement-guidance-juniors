@@ -130,7 +130,7 @@ What I recommend -
 
 1st 2nd yearite - entering data science - andrews ng for learning basics , kaggle mini learn courses for learning the coding part (This is very good sourvce I think) , for iit bhu people - udyam ka cassandra and mosaic will give you community in your own class , will give you a project and also a achievement to put in resume . Also need to know ML coding , need to build basic projects yourself on ipynb. start exploring Computer Vision cv , Natural Language Processing nlp , Reinforcement Learning rl, federated learning fl, generative ai genai etc maza aayega tumhe bahut. Dont stress about learning each and every command of numpy, pandas, matplotlib, sklearn, seaborn, tensorflow etc but get a surface level idea using any youtube video. 
 
-3rd 4th - knows ml , needs to do for placements - statquest for intution of the algorithm , then go deep into maths using krish nair videos , then MAS ml quizzes if you are in MAS . Also do probablity, statistics (from RICE University courses) , linear algebra (god knows kaha se kare ye, maybe 3b1b youtube channel has good videos, or khan academy), sql (answered below) , excel (random youtube videos) 
+3rd 4th - knows ml , needs to do for placements - statquest for intution of the algorithm , then go deep into maths using krish nair or campusx videos , then MAS ml quizzes if you are in MAS . Also do probablity, statistics (from RICE University courses + STAT110) , linear algebra (god knows kaha se kare ye, maybe 3b1b youtube channel has good videos, or khan academy), sql (answered below) , excel (random youtube videos) 
 
 Q SQL - 
 
@@ -217,7 +217,7 @@ SQL - mentioned above
 
 Probs , Stats , Linear Algebra - college ka MA201 course , ya stanford harvard (not sure konsa) ka STAT110, plus RICE university course 
 
-ML - Andrews Ng, Krish Nair, Statquest , and some of my seniors did CSE229 vaala andrews ng ka original 
+ML - Andrews Ng, Krish Nair, Statquest , and some of my seniors did CSE229 vaala andrews ng ka original , and my juniors also did CampusX which I scrolled once and looks good to me (CampusX wasn't that much popular when I was in 2nd year, maybe its a new uprising channel)
 
 Data - Cassandra Udyam (ECE dept fest) ke notes were good but not sufficient -  https://github.com/monako2001/Cassandra_Workspace (This repo was made by my senior Aman Mishra who went into Navi)
 
